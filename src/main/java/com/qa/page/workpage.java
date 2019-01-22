@@ -1,10 +1,9 @@
 package com.qa.page;
 
-public class homepage {
-
+public class workpage 
+{
 	public static void main(String[] args)
 	{
-		System.out.println("home page");
+		System.out.println("work");
 	}
-
 }
